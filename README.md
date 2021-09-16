@@ -17,7 +17,7 @@ For example: ParkingRoof.exe -c 2,12,6,7 -k 3
 OPTION 2
 1) open cmd or powershell
 2) navigate to {local folder path}/ParkingRoof/bin/Debug/ 
-3) type ParkingRoof.exe and follow instruction
+3) type ParkingRoof.exe and follow instructions
 
 OPTION 3
-1) Open ParkingRoof.exe file in ParkingRoof/bin/Debug/ folder and follow instruction
+1) Open ParkingRoof.exe file in ParkingRoof/bin/Debug/ folder and follow instructions
