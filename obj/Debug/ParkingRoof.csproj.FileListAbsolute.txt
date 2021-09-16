@@ -1,0 +1,8 @@
+C:\Users\urahimov\source\repos\ABBTechAcademy\ParkingRoof\bin\Debug\ParkingRoof.exe.config
+C:\Users\urahimov\source\repos\ABBTechAcademy\ParkingRoof\bin\Debug\ParkingRoof.exe
+C:\Users\urahimov\source\repos\ABBTechAcademy\ParkingRoof\bin\Debug\ParkingRoof.pdb
+C:\Users\urahimov\source\repos\ABBTechAcademy\ParkingRoof\obj\Debug\ParkingRoof.exe
+C:\Users\urahimov\source\repos\ABBTechAcademy\ParkingRoof\obj\Debug\ParkingRoof.pdb
+C:\Users\urahimov\source\repos\ABBTechAcademy\ParkingRoof\bin\Debug\CommandLine.dll
+C:\Users\urahimov\source\repos\ABBTechAcademy\ParkingRoof\bin\Debug\CommandLine.xml
+C:\Users\urahimov\source\repos\ABBTechAcademy\ParkingRoof\obj\Debug\ParkingRoof.csproj.CopyComplete
